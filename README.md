@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyni P.V</h1>
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m passionate MERN stack Developer **MERN stack**
 
 - 📫 How to reach me **shyni.unni@gmail.com**
 
@@ -26,3 +26,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shynisudhi&layout=compact&theme=" alt=Shynisudhi />
